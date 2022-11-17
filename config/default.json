@@ -1,0 +1,7 @@
+{
+  "port": "4000",
+  "db_uri": "mongodb://localhost:27017/mevn",
+  "jwt_key": "How secret key 234klsdf",
+  "original_url": "http://localhost:8080",
+  "base_url": "http://localhost:4000"
+}
